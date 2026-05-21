@@ -1,8 +1,5 @@
 import java.util.Arrays;
 
-/**
- * Виконавчий клас
- */
 public class CosmeticProcessor {
 
     public static void main(String[] args) {
