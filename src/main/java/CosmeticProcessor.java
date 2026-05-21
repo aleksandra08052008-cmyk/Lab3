@@ -12,7 +12,7 @@ public class CosmeticProcessor {
         };
 
         // Сортування:
-        // price ↑, rating ↓
+        // price, rating 
         Arrays.sort(cosmetics, (a, b) -> {
             if (Double.compare(a.getPrice(), b.getPrice()) == 0) {
                 return Integer.compare(b.getRating(), a.getRating());
