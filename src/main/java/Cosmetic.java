@@ -1,8 +1,6 @@
 import java.util.Objects;
 
-/**
- * Клас Cosmetic (косметика)
- */
+
 public class Cosmetic {
 
     private String name;
