@@ -82,3 +82,4 @@ __Висновок__
 - пошук об’єкта в масиві;
 
 __Відео__
+https://drive.google.com/file/d/1XRgFvnDfaj_u-qi8FN7gXYhqd_2kW81G/view?usp=sharing
